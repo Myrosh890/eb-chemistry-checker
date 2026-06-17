@@ -1,6 +1,6 @@
 # EB Chemistry Checker
 
-An AI-powered answer checker for the European Baccalaureate (EB) Chemistry exam, built against the official Lehrplan (Ref: 2021-01-D-51-de-2). It doesn't just grade — it measures how much its own grading can be trusted.
+An AI-powered answer checker for the European Baccalaureate (EB) Chemistry exam, built against the official Lehrplan. It doesn't just grade — it measures how much its own grading can be trusted.
 
 ## The problem
 
